@@ -1,0 +1,67 @@
+/********************************************************************************************************************************* */
+/*Menu Styles
+/********************************************************************************************************************************* */
+#Menu{
+    background-color: #16a085;
+    height: 100px
+}
+#Menu ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+#Menu li{
+    display: inline-block;
+}
+#Menu a{
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 100px;
+    color: #ffffff;
+    
+    padding: 0 40px;
+    border: none;
+    display: block;
+}
+
+#Menu a:hover{
+    background-color:#1abc9c;
+}
+/********************************************************************************************************************************* */
+/*body
+/********************************************************************************************************************************* */
+
+body{
+    background-color: aquamarine;
+    padding:30px;
+    width: 100%;
+}
+
+/********************************************************************************************************************************* */
+/*page Styles
+/********************************************************************************************************************************* */
+
+
+
+
+#Gallery{
+    float: left;
+    width: 30%;
+    padding-right: 30px;
+
+}
+h2{
+    color: black;
+    text-align: left;
+    font-family: fantasy;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-family: fantasy;  
+}
